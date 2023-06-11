@@ -1,6 +1,5 @@
 # Antispambot
 anti spam telegram bot
-Sure! Here's an example of how you can create an anti-spam Telegram bot using the `python-telegram-bot` library. This bot will monitor messages in a group or channel and take action if it detects spam.
 
 ```python
 import telegram
